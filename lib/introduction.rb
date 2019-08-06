@@ -83,8 +83,8 @@
 
 
 
-# def introduction(name)
-#  puts "Hi, my name is #{name}."
+# def introduction(samuel)
+#  puts "Hi, my name is #{samuel}."
 #end
 
 #def introduction_with_language(name, language)
